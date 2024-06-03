@@ -14,20 +14,33 @@ https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability?resource
 **Structure**
 
 water-potability-analysis/
+
 │
+
 ├── data/
+
 │   ├── raw/                # Raw data files
+
 │   ├── processed/          # Processed data files
+
 │
+
 ├── notebooks/              # Jupyter notebooks for exploration and analysis
+
 │
+
 ├── src/
+
 │   ├── Water_Potability_Analysis  # Data cleaning, preprocessing, finding outliers, EDA, Logistic regression model, evaluation and prediction.
               
 │
+
 ├── tests/                  # Test scripts
+
 │
+
 ├── README.md               # Project README
+
 └── requirements.txt        # Python packages requirements
 
 
