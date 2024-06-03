@@ -1,4 +1,5 @@
-**Water Potability Analysis using Logistic Regression**
+**Water Potability Analysis using Logistic Regression** : 
+
 This repository contains a project for analyzing water potability using data analysis and machine learning techniques, specifically logistic regression. The aim is to predict whether a given water sample is safe for drinking based on various water quality parameters.
 
 Introduction
