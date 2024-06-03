@@ -11,6 +11,8 @@ Water potability analysis is essential for ensuring safe drinking water. This pr
 The dataset used in this project contains various water quality parameters and the potability status (potable or not potable). You can find the dataset here. 
 https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability?resource=download
 
+
+
 **Structure**
 
 water-potability-analysis/
@@ -42,6 +44,8 @@ water-potability-analysis/
 ├── README.md               # Project README
 
 └── requirements.txt        # Python packages requirements
+
+
 
 
 **Model Training**
